@@ -1,0 +1,4 @@
+[0604/000102.639:ERROR:process_info.cc(359)] UncheckedAllocate
+[0604/005716.138:ERROR:process_info.cc(359)] UncheckedAllocate
+[0604/005820.529:ERROR:process_info.cc(359)] UncheckedAllocate
+[0604/011439.080:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Jo√£o Vitor\AppData\Local\Google\Chrome\User Data\Crashpad\reports\fa82cf0b-0ce5-4e2f-9f56-9b3293305f03.dmp: O arquivo j· est· sendo usado por outro processo. (0x20)
